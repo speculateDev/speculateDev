@@ -5,7 +5,7 @@
 </p>
 
 ```bash
-Front-End-First Full-Stack Developer
+Front-End Developer
 ```
 
 ## 🛠️ Tech Stack
